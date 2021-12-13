@@ -1,2 +1,2 @@
 # continuedbeta-minecraft-mod
-A continuation mod for Minecraft Beta 1.7.3
+A continuation mod for Minecraft Beta 1.7.3.
